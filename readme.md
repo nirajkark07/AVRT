@@ -9,7 +9,7 @@
 - [Demo](#Demo)
 
 ## Description
-This project showcases my work with the AVRT project. The goal of this project is to develop an AR assisted maintenance tool using pose estimation (FoundationPose) and object detection (YoloV10) algorithms.
+This project showcases my work with the AVRT project. The goal of this project is to develop an AR assisted maintenance tool on the Hololens2 using pose estimation (FoundationPose) and object detection (YoloV10) algorithms.
 
 ## Installation
 1. **Clone the repository**:
