@@ -1,5 +1,5 @@
 
-# Live 3D Reconstruction Demos
+# AVRT
 
 ## Table of Contents
 
